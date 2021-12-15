@@ -1,5 +1,7 @@
 # Tarefa 2 -- Teoria da Computação -- 2021/2
+
 **Definindo Computação & Açucar Sintático & Código como Dados, Dados como Código**
+
 **Autor:** Eduardo R. Costa
 
 ## Problema 2
